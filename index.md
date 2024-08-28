@@ -12,6 +12,7 @@ WIP
 
 ## Team
 WIP
+* [Team Contract](https://docs.google.com/document/d/1RjQpE1v-KnegEi_WD4V4ywFx8YryvBxxtOvXPAtF67U/edit?usp=sharing)
 
 ## Mock-up Ideas
 WIP
