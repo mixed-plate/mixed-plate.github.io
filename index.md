@@ -15,8 +15,14 @@ WIP
 * [Team Contract](https://docs.google.com/document/d/1RjQpE1v-KnegEi_WD4V4ywFx8YryvBxxtOvXPAtF67U/edit?usp=sharing)
 
 ## Mock-up Pages
+ - **Home Page:**
+ <hr>
  <img src = "./img/homePage.png" >
+ - **Form Page:**
+  <hr>
  <img src = "./img/formPage.png" >
+ - **About Us Page:**
+  <hr>
  <img src = "./img/aboutUsPage.png" >
 
 ## Developer Guide
