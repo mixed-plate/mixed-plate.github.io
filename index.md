@@ -3,7 +3,7 @@
 ## Table of contents
 * [Overview](#overview)
 * [Team](#team)
-* [Mock-up Ideas](#mock-up-ideas)
+* [Mock-up Pages](#mock-up-pages)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 
