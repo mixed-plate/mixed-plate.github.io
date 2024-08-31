@@ -16,7 +16,7 @@ WIP
 
 ## Mock-up Pages
  <img src = "./img/homePage.png" >
- <img src = "./img/submitFormPage.png" >
+ <img src = "./img/formPage.png" >
  <img src = "./img/aboutUsPage.png" >
 
 ## Developer Guide
