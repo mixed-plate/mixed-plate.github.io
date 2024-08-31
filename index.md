@@ -14,8 +14,10 @@ Our objective is to develop a user-friendly website that gives clients the abili
 WIP
 * [Team Contract](https://docs.google.com/document/d/1RjQpE1v-KnegEi_WD4V4ywFx8YryvBxxtOvXPAtF67U/edit?usp=sharing)
 
-## Mock-up Ideas
-WIP
+## Mock-up Pages
+ <img src = "./img/homePage.png" >
+ <img src = "./img/submitFormPage.png" >
+ <img src = "./img/aboutUsPage.png" >
 
 ## Developer Guide
 WIP
