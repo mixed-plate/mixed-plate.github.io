@@ -20,8 +20,9 @@ Our objective is to develop a user-friendly website that gives clients the abili
 * Ryne Stagen
 * Carolina Taylor
 
-## Team Contract
+### Team Contract
 * [Team Contract](https://docs.google.com/document/d/1RjQpE1v-KnegEi_WD4V4ywFx8YryvBxxtOvXPAtF67U/edit?usp=sharing)
+* [GitHub Organization](https://github.com/mixed-plate)
 
 ## Mock-up Pages
  ## Home Page
