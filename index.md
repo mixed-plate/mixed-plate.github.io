@@ -52,3 +52,5 @@ Our goal for Milestone 1 was to create a team contract and negotiate what roles 
 Since we still have a few issues still in our To-Do and In-Progress tab of our M1 project board, we plan to backlog and move those issues to our M2 milestone. 
 
 Milestone 1 was managed using [Mixed-Plate GitHub Project Board M1](https://github.com/orgs/mixed-plate/projects/2)
+<img src = "./img/milestone1_project_board.png" >
+
