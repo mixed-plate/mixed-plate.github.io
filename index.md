@@ -29,6 +29,11 @@ Our objective is to develop a user-friendly website that gives clients the abili
 <hr>
 <img src = "./img/homePage.png" >
 The Landing page is presented to users when they visit the top-level URL to the site, and includes a brief description of Mixed Plate. This page is shown if a user is not logged in.
+
+### Login Page
+<hr>
+<img src="./img/signInPage.png">
+The Login page is where users can enter their login credentials to access the rest of the site like the Input and Dashboard pages. This page is shown if a user is not logged in. 
  
 ### Input Page
 <hr>
