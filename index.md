@@ -24,24 +24,36 @@ Our objective is to develop a user-friendly website that gives clients the abili
 * [Team Contract](https://docs.google.com/document/d/1RjQpE1v-KnegEi_WD4V4ywFx8YryvBxxtOvXPAtF67U/edit?usp=sharing)
 
 ## Mock-up Pages
- ## Home Page
- <hr>
- <img src = "./img/homePage.png" >
+### Landing
+<hr>
+<img src = "./img/homePage.png" >
+The Landing page is presented to users when they visit the top-level URL to the site, and includes a brief description of Mixed Plate.
  
- ## Form Page 
-  <hr>
- <img src = "./img/formPage.png" >
+### Form Page 
+<hr>
+<img src = "./img/formPage.png" >
  
- ## About Us Page
-  <hr>
- <img src = "./img/aboutUsPage.png" >
+### Input Page
+<hr>
+<img src = "./img/inputPage1.jpg" >
+<img src = "./img/inputPage2.jpg" >
+This is where users or companies enter their financial data, which is then processed and stored in the database.
+
+### Dashboard Page
+<hr>
+<img src = "./img/dashboardPage.jpg" >
+This is where financial input and computed data are displayed as charts for visualization.
+
+### About Us Page
+<hr>
+<img src = "./img/aboutUsPage.png" >
 
 ## Developer Guide
 WIP
 
 ## Development History
 <h4>Milestone 1: Mock up Development</h4>
-WIP
+Milestone 1 was managed using [Mixed-Plate GitHub Project Board M1](https://github.com/orgs/mixed-plate/projects/2)
 <h4>Milestone 2: Deployment</h4>
 WIP
 <h4>Milestone 3: </h4>
