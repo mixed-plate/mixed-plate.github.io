@@ -28,26 +28,23 @@ Our objective is to develop a user-friendly website that gives clients the abili
 ### Landing
 <hr>
 <img src = "./img/homePage.png" >
-The Landing page is presented to users when they visit the top-level URL to the site, and includes a brief description of Mixed Plate.
- 
-### Form Page 
-<hr>
-<img src = "./img/formPage.png" >
+The Landing page is presented to users when they visit the top-level URL to the site, and includes a brief description of Mixed Plate. This page is shown if a user is not logged in.
  
 ### Input Page
 <hr>
 <img src = "./img/inputPage1.jpg" >
 <img src = "./img/inputPage2.jpg" >
-This is where users or companies enter their financial data, which is then processed and stored in the database.
+The Input page is where users and companies are able to enter their financial data, which is then processed and stored into the database. This page is only accessible to users who are logged in.
 
 ### Dashboard Page
 <hr>
 <img src = "./img/dashboardPage.jpg" >
-This is where financial input and computed data are displayed as charts for visualization.
+The Dashboard page is where financial input and computed data are displayed as charts for visualization. This is where users will be directed to after logging in.
 
 ### About Us Page
 <hr>
 <img src = "./img/aboutUsPage.png" >
+The About us page will display any information about the company and include contact information. This page will be accessible to all users whether they are logged in or not.
 
 ## Developer Guide
 WIP
