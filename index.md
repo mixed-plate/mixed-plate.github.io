@@ -29,6 +29,11 @@ Our objective is to develop a user-friendly website that gives clients the abili
 <hr>
 <img src = "./img/homePage.png" >
 The Landing page is presented to users when they visit the top-level URL to the site, and includes a brief description of Mixed Plate. This page is shown if a user is not logged in.
+
+### Login Page
+<hr>
+<img src="./img/signInPage.png">
+The Login page is where users can enter their login credentials to access the rest of the site like the Input and Dashboard pages. This page is shown if a user is not logged in. 
  
 ### Input Page
 <hr>
@@ -48,7 +53,7 @@ The About us page will display any information about the company and include con
 
 ## Development History
 <h4>Milestone 1: Mock up Development</h4>
-Our goal for Milestone 1 was to create a team contract and negotiate what roles and tasks each team member would be assigned. We then created a simple UI for the landing, input, and dashboard page. In addition, we decided to use the Next.js template for our project. 
+Our goal for Milestone 1 was to create a team contract and negotiate what roles and tasks each team member would be assigned. We then created a simple UI for the landing, input, sign in, and dashboard page. In addition, we decided to use the Next.js template for our project. 
 Since we still have a few issues still in our To-Do and In-Progress tab of our M1 project board, we plan to backlog and move those issues to our M2 milestone. 
 
 Milestone 1 was managed using [Mixed-Plate GitHub Project Board M1](https://github.com/orgs/mixed-plate/projects/2)
