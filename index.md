@@ -23,15 +23,20 @@ Our objective is to develop a user-friendly website that gives clients the abili
 * [GitHub Organization](https://github.com/mixed-plate)
 
 ## Mock-up Pages
-### Landing
+### Home Page
 <hr>
-<img src = "./img/homePage.png" >
-The Landing page is presented to users when they visit the top-level URL to the site, and includes a brief description of Mixed Plate. This page is shown if a user is not logged in.
+<img src = "./img/homePageUpdated.jpeg" >
+The Home Page is presented to users when they visit the top-level URL to the site and includes a brief description of Spire and their purpose. This page is shown if a user is not logged in.
 
-### Login Page
+### Sign In Page
 <hr>
-<img src="./img/signInPage.png">
-The Login page is where users can enter their login credentials to access the rest of the site like the Input and Dashboard pages. This page is shown if a user is not logged in. 
+<img src="./img/signinPageUpdated.png">
+The Sign In page is where users can enter their login credentials to access the rest of the site. Depending on their given role, they have certain functionalities and can only access parts of the site that they have permission for. This page is shown if a user is not logged in yet. 
+
+### Sign Up Page
+<hr>
+<img src="./img/signupPage.png">
+The Sign Up Page is 
  
 ### Input Page
 <hr>
