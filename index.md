@@ -16,7 +16,6 @@ Our objective is to develop a user-friendly website that gives clients the abili
 * [Natalie Dang](https://ndang562.github.io/)
 * [Zeb Lakey](https://zeb1283.github.io/)
 * [Jaira Pader](https://jairabp.github.io/)
-* [Ryne Stagen](https://senyr.github.io/)
 * [Carolina Taylor](https://carolinataylor.github.io/)
 
 ### Links
@@ -51,10 +50,23 @@ The Dashboard page is where financial input and computed data are displayed as c
 The About us page will display any information about the company and include contact information. This page will be accessible to all users whether they are logged in or not.
 
 ## Development History
-<h4>Milestone 1: Mock up Development</h4>
+<h4>Milestone 1</h4>
 Our goal for Milestone 1 was to create a team contract and negotiate what roles and tasks each team member would be assigned. We then created a simple UI for the landing, input, sign in, and dashboard page. In addition, we decided to use the Next.js template for our project. 
+
 Since we still have a few issues still in our To-Do and In-Progress tab of our M1 project board, we plan to backlog and move those issues to our M2 milestone. 
 
 Milestone 1 was managed using [Mixed-Plate GitHub Project Board M1](https://github.com/orgs/mixed-plate/projects/2)
-<img src = "./img/m1ProjectBoard.png" >
+<img src = "./img/m1ProjectBoardUpdated.png" >
+
+<h4>Milestone 2: Customer Milestone 1</h4>
+Our goal for Milestone 2 was to improve our existing UI and set up a way to input the audited balance sheet for cash and cash equivalents. We also created acceptance testing for our project. In addition, we reviewed different files and code to determine what needed to be updated or removed. 
+
+Milestone 2 was managed using [Mixed-Plate GitHub Project Board M2](https://github.com/orgs/mixed-plate/projects/9)
+<img src = "./img/m2ProjectBoard.png" >
+
+<h4>Milestone 3</h4>
+Our goal for Milestone 3 was to create a simple mock up for the forms page while removing any default values for the budget and audited data. We also continued to add any missing items into the audited balance sheet database. Lastly, we implemented continuous integration for our project which provides a badge that displays our project's build status.
+
+Milestone 3 was managed using [Mixed-Plate GitHub Project Board M3](https://github.com/orgs/mixed-plate/projects/11/views/1)
+<img src = "./img/m3ProjectBoard.png" >
 
