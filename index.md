@@ -72,6 +72,12 @@ Milestone 3 was managed using [Mixed-Plate GitHub Project Board M3](https://gith
 Our goal for Milestone 4 was to add more roles to our project and assigning certain functions for the different roles. We wanted to heavily improve the audited balance sheet by implementing a total feature for each category and fix the UI of the form to match the original spreadsheet look. We then created an admin panel and improved the UI for the home page. Along with all of this, we continued to review different files to see what needed to be updated.
 
 
-Milestone 4 was managed using [Mixed-Plate GitHub Project Board M3](https://github.com/orgs/mixed-plate/projects/16/views/1)
+Milestone 4 was managed using [Mixed-Plate GitHub Project Board M4](https://github.com/orgs/mixed-plate/projects/16/views/1)
 <img src = "./img/m4ProjectBoard.png" >
+
+<h4>Milestone 5</h4>
+Still in progress...
+
+Milestone 5 is being managed using [Mixed-Plate GitHub Project Board M5](https://github.com/orgs/mixed-plate/projects/17/views/1)
+<img src = "./img/m5ProjectBoard.png" >
 
