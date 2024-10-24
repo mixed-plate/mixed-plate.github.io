@@ -51,9 +51,7 @@ The About us page will display any information about the company and include con
 
 ## Development History
 <h4>Milestone 1</h4>
-Our goal for Milestone 1 was to create a team contract and negotiate what roles and tasks each team member would be assigned. We then created a simple UI for the landing, input, sign in, and dashboard page. In addition, we decided to use the Next.js template for our project. 
-
-Since we still have a few issues still in our To-Do and In-Progress tab of our M1 project board, we plan to backlog and move those issues to our M2 milestone. 
+Our goal for Milestone 1 was to create a team contract and negotiate what roles and tasks each team member would be assigned. We then created a simple UI for the landing, input, sign in, and dashboard page. In addition, we decided to use the Next.js template for our project. Since we still have a few issues still in our To-Do and In-Progress tab of our M1 project board, we plan to backlog and move those issues to our M2 milestone. 
 
 Milestone 1 was managed using [Mixed-Plate GitHub Project Board M1](https://github.com/orgs/mixed-plate/projects/2)
 <img src = "./img/m1ProjectBoardUpdated.png" >
@@ -69,4 +67,11 @@ Our goal for Milestone 3 was to create a simple mock up for the forms page while
 
 Milestone 3 was managed using [Mixed-Plate GitHub Project Board M3](https://github.com/orgs/mixed-plate/projects/11/views/1)
 <img src = "./img/m3ProjectBoard.png" >
+
+<h4>Milestone 4: Customer Milestone 2</h4>
+Our goal for Milestone 4 was to add more roles to our project and assigning certain functions for the different roles. We wanted to heavily improve the audited balance sheet by implementing a total feature for each category and fix the UI of the form to match the original spreadsheet look. We then created an admin panel and improved the UI for the home page. Along with all of this, we continued to review different files to see what needed to be updated.
+
+
+Milestone 4 was managed using [Mixed-Plate GitHub Project Board M3](https://github.com/orgs/mixed-plate/projects/16/views/1)
+<img src = "./img/m4ProjectBoard.png" >
 
