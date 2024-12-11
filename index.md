@@ -86,9 +86,15 @@ Our goal for Milestone 5 was to fix a bunch of our existing code and clean most 
 Milestone 5 is being managed using [Mixed-Plate GitHub Project Board M5](https://github.com/orgs/mixed-plate/projects/17/views/1)
 <img src = "./img/m5ProjectBoard.png" >
 
-<h4>Milestone 6</h4>
+<h4>Milestone 6: Customer Milestone 3</h4>
 Our goal for Milestone 6 was to update the dashboard UI and rework the budget panel sheet and the audied balance sheet to better fit the customer's requests. We heavily focused on adding different roles for the users with their dedicated functionalities and permissions. 
 
 Milestone 6 is being managed using [Mixed-Plate GitHub Project Board M6](https://github.com/orgs/mixed-plate/projects/18/views/1)
 <img src = "./img/m6ProjectBoard.png" >
+
+<h4>Milestone 7:  Customer Milestone 4</h4>
+Our goal for Milestone 7 was to finalize everything for our application since this was the last milestone. We wanted to focus on fixing and doing any last minute changes. We also finished working on the budget page by adding the missing variables and making sure it pulled data from the user and not hardcoded data.
+
+Milestone 7 is being managed using [Mixed-Plate GitHub Project Board M7](https://github.com/orgs/mixed-plate/projects/21/views/1)
+<img src = "./img/m7ProjectBoard.png" >
 
