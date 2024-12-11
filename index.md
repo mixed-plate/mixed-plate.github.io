@@ -81,7 +81,7 @@ Milestone 4 was managed using [Mixed-Plate GitHub Project Board M4](https://gith
 <img src = "./img/m4ProjectBoard.png" >
 
 <h4>Milestone 5</h4>
-Still in progress...
+Our goal for Milestone 5 was to fix a bunch of our existing code and clean most of it up. We fixed the audited data UI and the format of the budget sheet so that it matched the look of the original spreadsheet. We then created a mockup pages for the audited data format and also for a CSV page. The CSV page allows authorized users to upload CSV files and have it input the data for them.
 
 Milestone 5 is being managed using [Mixed-Plate GitHub Project Board M5](https://github.com/orgs/mixed-plate/projects/17/views/1)
 <img src = "./img/m5ProjectBoard.png" >
